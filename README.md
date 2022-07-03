@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lanfr0/lanfr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm Marco
+👶🏻  I'm something like a *burba* in all the tech stack that is currently out there. <br>
+💻  I really enjoy exploring new technologies and getting hands-on. <br>
+🍷  I'm a wine lover and I love finding new emotions in all of my tastings. <br>
+
+<hr>
+
+I’m currently learning __Flutter__ and __Dart__ to create a mobile application. I start the learning and creation path the last days of June 2022.
