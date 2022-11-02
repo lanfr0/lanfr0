@@ -6,4 +6,4 @@
 
 <hr>
 
-I’m currently learning __Flutter__ and __Dart__ to create a mobile application. I start the learning and creation path the last days of June 2022.
+I’m currently learning __React__.
