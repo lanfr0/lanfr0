@@ -6,6 +6,3 @@ Fun fact:
 - 🍷  I'm a wine lover and I love finding new emotions in all of my tastings
 - 🚵🏻‍♂️  I like to go to in mountain bike. I've a humble Ghost Kato Base 29
 
-<hr>
-
-🌱 I’m currently learning __React__.
